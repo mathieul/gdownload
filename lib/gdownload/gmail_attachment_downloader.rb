@@ -1,5 +1,4 @@
 require "gmail"
-require "gdownload/file_name"
 
 class GmailAttachmentDownloader < Struct.new(:account, :password)
   include FileName
