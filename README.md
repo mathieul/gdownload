@@ -25,9 +25,9 @@ download all attachments from labeled emails from your Gmail account.
 
 Download all attachments from emails labeled as **download\_me** to *./download/*:
 
-    $ thor download\_me gdownload:download -u my_account -u secret
+    $ thor download_me gdownload:download -u my_account -u secret
 
 Same thing but for email received after November 11th 2011:
 
-    $ thor download\_me gdownload:download -u my_account -u secret -a "11 Nov 2011"
+    $ thor download_me gdownload:download -u my_account -u secret -a "11 Nov 2011"
 
