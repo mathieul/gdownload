@@ -11,15 +11,15 @@ The emails are selected by label name.
 
 ## Syntax ##
 
-Usage:
-  thor gdownload:download LABEL -p, --password=PASSWORD -u, --user=USER
+    Usage:
+      thor gdownload:download LABEL -p, --password=PASSWORD -u, --user=USER
 
-Options:
-  -u, --user=USER
-  -p, --password=PASSWORD
-  -a, [--after=AFTER]
+    Options:
+      -u, --user=USER
+      -p, --password=PASSWORD
+      -a, [--after=AFTER]
 
-download all attachments from labeled emails from your Gmail account.
+    download all attachments from labeled emails from your Gmail account.
 
 ## Examples ##
 
